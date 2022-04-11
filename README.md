@@ -3,9 +3,13 @@
 ### Sou um desenvolvedor Fullstack
 
 ----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henderson-da-rocha-porfirio&show_icons=true&theme=highcontrast)
+<div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Henderson-da-rocha-porfirio&show_icons=true&theme=highcontrast"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
+
 ###
 ----
 ## Contato
