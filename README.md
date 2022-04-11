@@ -1,16 +1,46 @@
-### Hi there 👋
+# Olá meu amigo...
+## Me chamo Henderson da Rocha Porfirio
+### Sou um desenvolvedor Fullstack
 
-<!--
-**Henderson-da-rocha-porfirio/henderson-da-rocha-porfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henderson-da-rocha-porfirio&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
+----
+## Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Henderson-da-rocha-porfirio/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="70">
+</a>
+          
+###
+----
+## Linguagens
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" height="70" width="100">
+
+###
+----
+## Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" height="70" width="100">
+
+###
+----
+## Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" align="center" height="70" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" align="center" height="70" width="100">
+
+
+
+
+</div>
