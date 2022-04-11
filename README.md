@@ -18,7 +18,7 @@
 ----
 ## Contato
 
-<a href="https://github.com/Henderson-da-rocha-porfirio/">
+<a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="70">
 </a>
           
