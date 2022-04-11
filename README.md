@@ -7,7 +7,7 @@
 | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Henderson-da-rocha-porfirio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"></code>
+<code><img height="23" src="https://icon-library.com/images/java-icon-image/java-icon-image-28.jpg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
