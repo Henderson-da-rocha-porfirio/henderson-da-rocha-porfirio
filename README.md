@@ -1,7 +1,7 @@
-# Olá meu amigo...
-## Me chamo Henderson da Rocha Porfirio
-- 💼 Sou um desenvolvedor Fullstack
-- ❤️ Eu amo desenvolver com Java
+# Hello My Friend...
+## My name is Henderson da Rocha Porfirio
+- 💼 I'm Fullstack Developer
+- ❤️ I love to develop with Java
 ----
 
 | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Henderson-da-rocha-porfirio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact&theme=buefy&hide_border=true" /></a> |
