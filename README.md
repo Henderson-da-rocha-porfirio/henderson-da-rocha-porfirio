@@ -1,4 +1,4 @@
-<img width="20%" align="center" alt="Github" src="https://user-images.githubusercontent.com/46926951/163206610-63e08011-8db4-42cf-af27-d4c41cfc0d73.gif">
+<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/46926951/163206610-63e08011-8db4-42cf-af27-d4c41cfc0d73.gif"/></p>
 
 - 💼 I'm Fullstack Developer
 - ❤️ I love to develop with Java
