@@ -1,5 +1,5 @@
+<img width="20%" align="center" alt="Github" src="https://user-images.githubusercontent.com/46926951/163206610-63e08011-8db4-42cf-af27-d4c41cfc0d73.gif">
 
-![](https://user-images.githubusercontent.com/46926951/163196972-474005b6-a976-40e5-92c6-ff0fe0e1e79f.gif#)
 - 💼 I'm Fullstack Developer
 - ❤️ I love to develop with Java
 ----
