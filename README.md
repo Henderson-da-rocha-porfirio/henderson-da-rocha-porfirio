@@ -1,7 +1,7 @@
 <p align="center"><img width="40%" src="https://user-images.githubusercontent.com/46926951/163212026-72b139e0-3efc-4b90-91ec-ac0f8cc791bb.gif"/></p>
 
 - 💼 I'm Fullstack Developer
-- ❤️ I love to develop with Java
+- ❤️ I love to develop
 ----
 
 | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact&theme=buefy&hide_border=true" /></a> |
