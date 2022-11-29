@@ -4,8 +4,8 @@
 - ❤️ I love to develop
 ----
 
-| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&theme=nord&show_icons=true" /></a>
-| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-da-rocha-porfirio&theme=nord&layout=compact" /></a> |
+| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&theme=nord&show_icons=true" /></a>
+| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" height="150px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-da-rocha-porfirio&theme=nord&layout=compact" /></a> |
 
 
 ###
