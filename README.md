@@ -4,8 +4,10 @@
 - ❤️ I love to develop
 ----
 
-| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henderson-da-rocha-porfirio&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&theme=nord&show_icons=true" /></a>
+| <a href="https://github.com/Henderson-da-rocha-porfirio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-da-rocha-porfirio&theme=nord&layout=compact" /></a> |
+
+
 ###
 ###
 ----
