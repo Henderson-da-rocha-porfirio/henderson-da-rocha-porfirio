@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Guys+!+!+!+(%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81))" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=((%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)+Hello+Guys!+Can+I+Help+U?" alt="Typing SVG" /></a>
 </h1> 
 
 
