@@ -33,3 +33,5 @@
           
 ###
 ----
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100&pause=5&color=1FF79E&width=435&lines=Status++++++++++200+OK)](https://git.io/typing-svg)
