@@ -1,6 +1,5 @@
-<h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=((%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)+Hello+Guys!+Can+I+Help+U?" alt="Typing SVG" /></a>
-</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=100&pause=5&color=1FF79E&center=true&vCenter=true&width=450&height=100&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C+Status+200+OK)](https://git.io/typing-svg)
+
 
 
 
@@ -33,5 +32,3 @@
           
 ###
 ----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100&pause=5&color=1FF79E&width=435&lines=---------------------+++++++++++++++++++Status+200+OK)](https://git.io/typing-svg)
