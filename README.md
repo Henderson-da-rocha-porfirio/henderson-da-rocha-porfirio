@@ -11,6 +11,14 @@
 
 ###
 ###
+## ⚡ Contact
+
+<a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="70">
+</a>
+          
+###
+----
 ----
 ## ⚡ My top technology stacks
 <code><img height="23" src="https://icon-library.com/images/java-icon-image/java-icon-image-28.jpg"></code>
@@ -22,13 +30,5 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code>
-###
-----
-## ⚡ Contact
-
-<a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="70">
-</a>
-          
 ###
 ----
