@@ -2,7 +2,7 @@
 <a href=></a>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=100&pause=5&color=1FF79E&center=true&vCenter=true&width=450&height=100&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C+Status+200+OK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=100&pause=5&color=1FF79E&center=true&vCenter=true&width=450&height=100&lines=%7C%7C%7C%7C%7C%7C%7C%7C%7C+Status+200+OK)](https://git.io/typing-svg)
 
 
 <!-- ## ⚡ My top technology stacks
