@@ -41,11 +41,11 @@
 <br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1FF79E&height=120&section=footer"/>
 
-<br><br>
-<br><br>
+<!-- <br><br>
+<br><br> -->
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio"><img src="https://img.shields.io/badge/Linkedin-1FF79E?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio"><img src="https://img.shields.io/badge/Linkedin-1FF79E?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
   <br><br>
   
 <div align="center">
