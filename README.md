@@ -47,7 +47,7 @@
 
   <a href="https://www.linkedin.com/in/henderson-da-rocha-porfirio"><img src="https://img.shields.io/badge/Linkedin-1FF79E?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
   <br><br>
-  
+![](https://komarev.com/ghpvc/?username=henderson-da-rocha-porfirio)
 <div align="center">
 <a href=></a>
 <br><br>
