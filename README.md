@@ -61,3 +61,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"></code> -->
+
+          
+ ![](https://raw.githubusercontent.com/Henderson-da-rocha-porfirio/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/Henderson-da-rocha-porfirio/github-stats/master/generated/languages.svg#gh-dark-mode-only)
