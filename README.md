@@ -34,7 +34,7 @@
 <br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henderson-da-rocha-porfirio&show_icons=true&count_private=true&hide_border=true&title_color=1FF79E&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="henderson-da-rocha-porfirio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-da-rocha-porfirio&layout=compact&hide_border=true&title_color=1FF79E&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henderson-da-rocha-porfirio&layout=compact&hide_border=true&title_color=1FF79E&text_color=00bfbf&bg_color=0d1117&langs_count=10&card_width=400" />
 </div>
 
 
